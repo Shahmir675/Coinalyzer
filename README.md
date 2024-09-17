@@ -1,2 +1,3 @@
 # Coinalyzer
-Coinalyzer is a sophisticated tool for detecting manipulation in cryptocurrency markets using anomaly detection techniques and time series data.
+
+Coinalyzer is an advanced cryptocurrency analysis tool designed to detect and analyze irregularities in cryptocurrency markets. By leveraging anomaly detection techniques, Coinalyzer provides actionable insights into potential market manipulation.
